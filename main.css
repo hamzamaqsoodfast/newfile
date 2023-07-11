@@ -1,0 +1,58 @@
+/* below is code to make heading color red */
+
+body
+{
+background-image: url("https://w0.peakpx.com/wallpaper/148/600/HD-wallpaper-dark-blue-abstract-background-blue-lines-background-material-design-stylish-blue-background.jpg");
+background-repeat: no-repeat;
+background-position: left bottom;
+background-attachment: fixed;
+background-size: cover;
+
+
+}
+/*BELOW IS CODE FOR LECTURE 5*/
+.lecture5{
+    font-size:50px;
+    color: red;
+    text-align: center;
+    font-family: Tahoma;
+}
+#lecture5,#lecture6
+{
+    font-size:50px;
+    color: yellow;
+    text-align: center;
+    font-family: Tahoma;
+}
+.lecture7,.lecture8
+{
+    font-size:50px;
+    color: yellow;
+    text-align: center;
+    font-family: Tahoma;
+}
+
+
+P{
+  
+    text-align : center;
+    color:white;
+    font-size:30px;
+    font-family: Tahoma;
+border-style: solid;
+border-color:yellow;
+border-width: 25px 10px 4px 35px; /* 25px top, 10px right, 4px bottom and 35px left */
+
+}
+#para1 {
+    text-align: center;
+    color: red;
+  }
+  
+
+
+  h3,h4{
+    color:white;
+    font-size:50px;
+text-align:center;
+  }
