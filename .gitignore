@@ -1,0 +1,30 @@
+# Dependency directories
+node_modules/
+
+# OS or editor generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Directory for storing debug logs
+debug.log
+
+# Environment configuration
+.env
+
+# Uncomment the following lines if you're using npm or Yarn for package management
+
+# npm package files
+# /package-lock.json
+
+# Yarn package files
+# /yarn.lock
